@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarsha777
 - 👀 I’m interested in open source projects 
-- 🌱 I’m currently learning python and java and html
+- 🌱 I’m currently learning MERN , Dl.
 - 💞️ I’m looking to collaborate on realtime projects. 
 - 📫 How to reach me: ptst2005@gmail.com
 
