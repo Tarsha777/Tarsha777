@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tarsha777
 - 👀 I’m interested in open source projects 
-- 🌱 I’m currently learning MERN , Dl.
 - 💞️ I’m looking to collaborate on realtime projects. 
-- 📫 How to reach me: ptst2005@gmail.com
+- 📫 How to reach me: tarshaponakala@gmail.com
 
 <!---
 Tarsha777/Tarsha777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
